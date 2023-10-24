@@ -65,7 +65,7 @@ const WorkWithUs = () => {
               </div>
             </div>
           </div>
-          <div className="flex flex-col gap-5 max-h-[75vh] overflow-y-auto pr-6 ">
+          <div className="flex flex-col gap-5 max-h-[75vh] overflow-y-auto pr-6 custom-scrollbar  ">
            
               <div
                 className="p-4 bg-white rounded-2xl space-y-6 w-[20rem] "
