@@ -1,7 +1,7 @@
 
 # Dribble design --> website
 
-This is a dribble design, converted to a Next js 13 app.
+This is a dribble design, converted to a Next js 13 web app.
 
 Go to the project directory
 
@@ -24,5 +24,5 @@ Start the server
 
 ## Demo
 
-Link to project : https://ahead-app-ui.vercel.app/
+Link to project : https://ahead-web.netlify.app/
 
