@@ -1,8 +1,4 @@
-
-# Dribble design --> website
-
-This is a dribble design, converted to a Next js 13 web app.
-
+#Created With Nextjs13
 Go to the project directory
 
 ```bash
